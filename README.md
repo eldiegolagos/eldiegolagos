@@ -12,15 +12,15 @@
   </samp>
 </p>
 <div align="center">
-  <img height="20" alt="html5" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/html5.png">
-  <img height="20" alt="css3" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/css3.png">
-  <img height="20" alt="sass" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/sass.png">
-  <img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/bootstrap.png">
-  <img height="20" alt="wordpress" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/wordpress.png">
-  <img height="20" alt="javascript" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/javascript.png">
-  <img height="20" alt="blank" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/blank.png">
-  <img height="20" alt="figma" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/figma.png">
-  <img height="20" alt="Adobe Xd" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/adobe_Xd.png">
+  <img height="30" alt="html5" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/html5.png">
+  <img height="30" alt="css3" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/css3.png">
+  <img height="30" alt="sass" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/sass.png">
+  <img height="30" alt="bootstrap" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/bootstrap.png">
+  <img height="30" alt="wordpress" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/wordpress.png">
+  <img height="30" alt="javascript" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/javascript.png">
+  <img height="30" alt="blank" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/blank.png">
+  <img height="30" alt="figma" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/figma.png">
+  <img height="30" alt="Adobe Xd" src="https://raw.githubusercontent.com/eldiegolagos/eldiegolagos/main/resources/adobe_Xd.png">
 </div>
 <br>
 <p align="center">
